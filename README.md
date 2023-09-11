@@ -18,19 +18,8 @@
 <h1>Redes Sociais:</h1>
 
 <div> 
-            <a href="https://github.com/lpereira22" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="50" width="50">
-            </a>
-
-            <a href="https://www.instagram.com/luizgustavo.r.p/" target="_blank">
-            <img src="https://www.flaticon.com/free-icon/instagram_3955024" height="50" width="50">
-            </a>
-
-            <a href="https://www.youtube.com/channel/UC_y5-DI_pz7ZR-8JPTJ5qTg" target="_blank">
-            <ion-icon name="logo-youtube"></ion-icon>
-            </a>
-
-            <a href="https://www.linkedin.com/in/gustavo-luiz-95b306181/" target="_blank">
-            <ion-icon name="logo-linkedin"></ion-icon>
-            </a>
+  <a href="https://github.com/lpereira22" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" target="_blank" height="50" width="50"></a>
+  <a href="https://www.instagram.com/luizgustavo.r.p/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384015.png" target="_blank" height="50" width="50"></a>
+ 	<a href="https://www.youtube.com/channel/UC_y5-DI_pz7ZR-8JPTJ5qTg"><img src="https://cdn-icons-png.flaticon.com/512/3669/3669688.png" target="_blank" height="50" width="50"></a>
+  <a href="https://www.linkedin.com/in/gustavo-luiz-95b306181/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" target="_blank" height="50" width="50"></a> 
 </div>
